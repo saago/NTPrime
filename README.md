@@ -2,6 +2,9 @@
 
 **NTPrime** is a modern, lightweight Windows GUI application built with Python and Tkinter. It allows network administrators and power users to easily configure, manage, and monitor their Windows NTP (Network Time Protocol) server settings without having to manually type `w32tm` and `net` commands in the command prompt.
 
+[![Ko-fi](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/netanelelhadad)
+[![Support](https://img.shields.io/badge/❤️_Support_This_Project-FF5E5B?style=for-the-badge)](https://ko-fi.com/netanelelhadad)
+
 ## ⬇️ Download
 
 No Python required — grab the ready-to-run standalone executable:
