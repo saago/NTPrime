@@ -2,6 +2,14 @@
 
 **NTPrime** is a modern, lightweight Windows GUI application built with Python and Tkinter. It allows network administrators and power users to easily configure, manage, and monitor their Windows NTP (Network Time Protocol) server settings without having to manually type `w32tm` and `net` commands in the command prompt.
 
+## ⬇️ Download
+
+No Python required — grab the ready-to-run standalone executable:
+
+### ➡️ **[Download NTPrime.exe](https://github.com/saago/NTPrime/raw/main/NTPrime.exe)**
+
+> After downloading, **right-click → Run as administrator** (administrator rights are required to change the time settings).
+
 ## ✨ Features
 
 - **Modern UI**: Sleek, flat-design dark mode interface built with native Tkinter.
@@ -21,7 +29,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/NTPrime.git
+   git clone https://github.com/saago/NTPrime.git
    cd NTPrime
    ```
 
@@ -49,4 +57,4 @@ Created by **Netanel Elhadad**.
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [GNU GPL-3.0 License](LICENSE).
